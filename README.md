@@ -1,7 +1,5 @@
 # Proyecto De Delitos De Odio RRSS.
 
-# :sun_with_face: **Calculate Photovoltaic Installations** 
-In this project I have created a Streamlit page to calculate an estimate of the size of the photovoltaic installation that the user needs and also the cost data of the installation and how long it would take to amortize its installation
 
 
 &nbsp;
